@@ -6,7 +6,7 @@ I am currently studying at **1337 (Leet) coding school**, where I am developing 
 
 ## 💻 Skills and Technologies
 
-I have experience in several programming languages and technologies, including:
+I have experience in several programming languages , including:
 - **Languages**: C, c++
 - **Tools**: Git, Makefile, VS Code
 - **Database**: SQL
