@@ -1,78 +1,34 @@
 # About Me
 
-Welcome to my personal repository! 👋
+Hi there! 👋 I'm **Ayoub Bouatrouss**.
 
-My name is **[Ayoub Bouatrouss]**, and I am passionate about **[# About Me
-
-Welcome to my personal repository! 👋
-
-My name is **[Your Name]**, and I am passionate about **[]**. I am a **[your role/position]** who enjoys learning, building projects, and solving problems.
+I am currently studying at **1337 (Leet) coding school**, where I am developing my skills in software engineering and problem-solving. I am passionate about learning new programming concepts, improving my coding abilities, and working on challenging projects. 
 
 ## 💻 Skills and Technologies
 
-Here are some of the technologies I am familiar with:
-- **Languages**: Python, C, JavaScript, HTML, CSS
-- **Frameworks**: React, Node.js, Flask
-- **Tools**: Git, Docker, VS Code, AWS, etc.
+I have experience in several programming languages and technologies, including:
+- **Languages**: C, c++
+- **Tools**: Git, Makefile, VS Code
+- **Database**: SQL
+- **Operating Systems**: Linux, Unix
 
 ## 🚀 Projects
 
-I have worked on a number of interesting projects, including:
-1. **[Project Name 1]**: Brief description of the project and your role.
-2. **[Project Name 2]**: Brief description of the project and your role.
-3. **[Project Name 3]**: Brief description of the project and your role.
-
-Check them out on my GitHub profile!
-
-## 📚 Education
-
-- **[University/School Name]**, [Degree], [Year]
-- [Any certifications or online courses you’ve taken, e.g., Coursera, Udemy, etc.]
+Here are some projects I've worked on during my time at 1337:
+1. **[Get Next Line](https://github.com/aybouatr/get_next_line)**: A project focused on handling dynamic memory allocation and reading lines from a file.
+2. **[Push_swap](https://github.com/aybouatr/push_swap)**: A project where I implemented algorithms to sort a stack of numbers.
+3. **[ft_printf](https://github.com/aybouatr/ft_printf)**: A custom implementation of the `printf` function in C.
+4. **[Pipex](https://github.com/aybouatr/pipex)**: A project that simulates the behavior of the `pipe` system call, enabling communication between processes using pipes.
+5. **[libft](https://github.com/aybouatr/libft)**: A custom implementation of standard C library functions to enhance understanding of memory management, pointers, and basic operations.
 
 ## 🌱 Learning and Growth
 
-Currently, I am focusing on learning **[new technologies/skills you're working on]**. I’m always eager to take on new challenges and expand my knowledge!
+Currently, I’m working on mastering **data structures and algorithms** to prepare for the upcoming challenges at 1337. I’m also exploring more advanced topics in **system-level programming** and **optimization**.
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/ayoubouatrouss)
+- [GitHub](https://github.com/aybouatr)
+- [Email](aybouatr@student.1337.ma)
 
-Thanks for visiting! Feel free to reach out if you’d like to connect or collaborate.
-]**. I am a **[your role/position]** who enjoys learning, building projects, and solving problems.
-
-## 💻 Skills and Technologies
-
-Here are some of the technologies I am familiar with:
-- **Languages**: Python, C, JavaScript, HTML, CSS
-- **Frameworks**: React, Node.js, Flask
-- **Tools**: Git, Docker, VS Code, AWS, etc.
-
-## 🚀 Projects
-
-I have worked on a number of interesting projects, including:
-1. **[Project Name 1]**: Brief description of the project and your role.
-2. **[Project Name 2]**: Brief description of the project and your role.
-3. **[Project Name 3]**: Brief description of the project and your role.
-
-Check them out on my GitHub profile!
-
-## 📚 Education
-
-- **[University/School Name]**, [Degree], [Year]
-- [Any certifications or online courses you’ve taken, e.g., Coursera, Udemy, etc.]
-
-## 🌱 Learning and Growth
-
-Currently, I am focusing on learning **[new technologies/skills you're working on]**. I’m always eager to take on new challenges and expand my knowledge!
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
-- [Email](mailto:youremail@example.com)
-
-Thanks for visiting! Feel free to reach out if you’d like to connect or collaborate.
+Thanks for visiting! If you'd like to collaborate or chat about tech, feel free to reach out. I'm always open to new challenges!
