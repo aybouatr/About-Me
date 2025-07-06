@@ -14,13 +14,36 @@ I have experience in several programming languages , including:
 
 ## 🚀 Projects
 
-Here are some projects I've worked on during my time at 1337:
-1. **[Get Next Line](https://github.com/aybouatr/get_next_line)**: A project focused on handling dynamic memory allocation and reading lines from a file.
-2. **[Push_swap](https://github.com/aybouatr/push_swap)**: A project where I implemented algorithms to sort a stack of numbers.
-3. **[ft_printf](https://github.com/aybouatr/ft_printf)**: A custom implementation of the `printf` function in C.
-4. **[Pipex](https://github.com/aybouatr/pipex)**: A project that simulates the behavior of the `pipe` system call, enabling communication between processes using pipes.
-5. **[libft](https://github.com/aybouatr/libft)**: A custom implementation of standard C library functions to enhance understanding of memory management, pointers, and basic operations.
+Below is a selection of my key software engineering projects, showcasing my skills in C, C++, systems programming, and object-oriented design:
 
+### [pipex](https://github.com/aybouatr/pipex)  
+A C project that replicates the Unix pipe functionality, focusing on process management and inter-process communication.
+
+### [lean_basic_oop](https://github.com/aybouatr/lean_basic_oop)  
+An educational C++ project designed to reinforce foundational Object-Oriented Programming concepts and design patterns.
+
+### [Philo](https://github.com/aybouatr/Philo)  
+A concurrency-oriented C implementation of the classic "Dining Philosophers" problem, emphasizing thread management and synchronization.
+
+### [Bank-Application](https://github.com/aybouatr/Bank-Application)  
+A C++ application simulating essential banking operations, developed to deepen my understanding of OOP principles and practical software architecture.
+
+### [minishell](https://github.com/aybouatr/minishell)  
+A minimalist Unix shell built in C, implementing command parsing, execution, and process control.
+
+### [push_swap](https://github.com/aybouatr/push_swap)  
+An algorithm challenge implemented in C, focused on sorting numbers using stack-based operations with optimal efficiency.
+
+### [so_long](https://github.com/aybouatr/so_long)  
+A simple 2D game developed in C, demonstrating logic implementation, event handling, and basic graphics rendering.
+
+### [ft_printf](https://github.com/aybouatr/ft_printf)  
+A custom reimplementation of the standard C printf function, supporting formatted output for various data types.
+
+### [clsBankClient](https://github.com/aybouatr/clsBankClient)  
+A mini C++ project simulating a bank client management system, used to practice core object-oriented programming skills.
+
+---
 ## 🌱 Learning and Growth
 
 Currently, I’m working on mastering **data structures and algorithms** to prepare for the upcoming challenges at 1337. I’m also exploring more advanced topics in **system-level programming** and **optimization**.
