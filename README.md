@@ -80,6 +80,36 @@ I'm Ayoub Bouatrouss from Morocco.<br><br>
 </div>
 
 ###
+
+## 🚀 Projects
+
+Here are some of the key projects I have worked on, demonstrating my software engineering, algorithms, and systems programming skills:
+
+| Project Name | Description | Language / Tech |
+|--------------|-------------|----------------|
+| [pipex](https://github.com/aybouatr/pipex) | Replicates Unix pipe functionality, focusing on process management and inter-process communication. | C |
+| [lean_basic_oop](https://github.com/aybouatr/lean_basic_oop) | Educational C++ project on Object-Oriented Programming concepts and design patterns. | C++ |
+| [Philo](https://github.com/aybouatr/Philo) | Dining Philosophers problem implementation focusing on concurrency, thread management, and synchronization. | C |
+| [Bank-Application](https://github.com/aybouatr/Bank-Application) | Simulates essential banking operations to practice OOP principles and software design. | C++ |
+| [minishell](https://github.com/aybouatr/minishell) | A minimal Unix shell with command parsing, execution, and process control. | C |
+| [push_swap](https://github.com/aybouatr/push_swap) | Sorting algorithm challenge using stack-based operations for optimal efficiency. | C |
+| [so_long](https://github.com/aybouatr/so_long) | Simple 2D game demonstrating event handling, logic, and basic graphics. | C |
+| [ft_printf](https://github.com/aybouatr/ft_printf) | Custom reimplementation of the standard printf function in C. | C |
+| [clsBankClient](https://github.com/aybouatr/clsBankClient) | Mini bank client management system to reinforce OOP skills. | C++ |
+| [get_next_line](https://github.com/aybouatr/get_next_line) | Reads lines from a file descriptor efficiently, handling buffer management. | C |
+| [Libft](https://github.com/aybouatr/Libft) | Custom C library with essential standard functions and utilities. | C |
+| [cub3D](https://github.com/aybouatr/cub3D) | 3D game engine project, rendering simple 3D graphics using raycasting. | C |
+| [CPP-Modules](https://github.com/aybouatr/CPP-Modules) | A series of modules covering advanced C++ concepts. | C++ |
+| [webserv](https://github.com/aybouatr/webserv) | HTTP web server project implementing core server logic and networking. | C++ |
+| [ft_containers](https://github.com/aybouatr/ft_containers) | Re-implementation of standard C++ containers (vector, map, stack, etc.). | C++ |
+| [Inception](https://github.com/aybouatr/Inception) | Docker-based project creating and managing multiple web services. | Docker, Nginx, WordPress |
+| [ft_irc](https://github.com/aybouatr/ft_irc) | IRC server project with real-time chat functionalities. | C++ |
+| [NetPractice](https://github.com/aybouatr/NetPractice) | Network configuration and troubleshooting exercises. | Networking |
+| [philosophers](https://github.com/aybouatr/philosophers) | Another concurrency project inspired by the Dining Philosophers problem. | C |
+| [ft_transcendence](https://github.com/aybouatr/ft_transcendence) | Full-stack web application project using modern frameworks. | TypeScript, NestJS, React |
+
+> For a full list of all my repositories and ongoing work, please visit my [GitHub profile](https://github.com/aybouatr).
+
 - [LinkedIn](https://www.linkedin.com/in/ayoubouatrouss)
 - [GitHub](https://github.com/aybouatr)
 - [Email](aybouatr@student.1337.ma)
